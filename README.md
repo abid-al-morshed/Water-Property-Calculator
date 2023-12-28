@@ -1,5 +1,5 @@
 # Water-Property-Calculator
-The app is based on <i>Cengel and Cimbala, Fluid Mechanics: Fundamentals and Applications, Ed. 3, McGraw-Hill, 2014</i>.
+The app is based on <i>Cengel and Cimbala, Fluid Mechanics: Fundamentals and Applications, Ed. 3, McGraw-Hill, 2014</i>. (Windows might consider it as virus which is a common issue with this type of file, but I assure you it is not a virus)
 ## How to use:
 1. Download the exe file
 2. Double click to launch
